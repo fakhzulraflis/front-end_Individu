@@ -31,7 +31,7 @@ export default function Hero() {
           <div className="col-12 col-lg-5 text-center">
             { }
             <Image
-              src="/images/cangkir-kopi.svg"
+              src="/images/cangkir-kopi.png"
               alt="Ilustrasi cangkir Kopi Nusantara"
               width={640}
               height={640}

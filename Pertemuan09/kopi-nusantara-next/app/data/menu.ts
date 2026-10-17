@@ -30,7 +30,7 @@ export const MENU_ITEMS: MenuItem[] = [
     id: "es-kopi-kelapa",
     nama: "Es Kopi Kelapa",
     kategori: "dingin",
-    gambar: "/images/es-kopi-kelapa.svg",
+    gambar: "/images/es-kopi-kelapa.jpg",
     alt: "Ilustrasi Es Kopi Kelapa",
     deskripsi:
       "Espresso segar berpadu dengan air kelapa muda asli dan sedikit gula aren.",
@@ -41,7 +41,7 @@ export const MENU_ITEMS: MenuItem[] = [
     id: "kopi-susu-gula-aren",
     nama: "Kopi Susu Gula Aren",
     kategori: "dingin",
-    gambar: "/images/kopi-susu-gula-aren.svg",
+    gambar: "/images/kopi-susu-gula-aren.jpg",
     alt: "Ilustrasi Kopi Susu Gula Aren",
     deskripsi:
       "Perpaduan klasik kopi robusta lokal, susu segar, dan gula aren asli.",
@@ -52,7 +52,7 @@ export const MENU_ITEMS: MenuItem[] = [
     id: "americano",
     nama: "Americano",
     kategori: "panas",
-    gambar: "/images/americano.svg",
+    gambar: "/images/americano.jpg",
     alt: "Ilustrasi Americano",
     deskripsi:
       "Espresso murni dengan air panas, cocok untuk penikmat kopi hitam.",
@@ -63,7 +63,7 @@ export const MENU_ITEMS: MenuItem[] = [
     id: "cappuccino",
     nama: "Cappuccino",
     kategori: "panas",
-    gambar: "/images/cappuccino.svg",
+    gambar: "/images/cappuccino.jpg",
     alt: "Ilustrasi Cappuccino",
     deskripsi:
       "Espresso dengan foam susu lembut dan taburan bubuk cokelat.",

@@ -7,7 +7,7 @@ export default function AboutSection() {
         <div className="row align-items-center g-4">
           <div className="col-12 col-md-5 col-lg-4 text-center">
             <Image
-              src="/images/biji-kopi.svg"
+              src="/images/biji-kopi.png"
               alt="Ilustrasi biji kopi Nusantara"
               width={520}
               height={520}
